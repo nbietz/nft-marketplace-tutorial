@@ -8,7 +8,7 @@ export default function NFT() {
   const router = useRouter();
   const { listingId } = router.query;
   const { contract } = useContract(
-    "0xd655B5d412eAbD1b7A901793673a511e664bCF5f",
+    "0xD230DD8d8f0e546700048a666011cEe7E8d8022A",
     "marketplace"
   );
 
@@ -63,7 +63,7 @@ export default function NFT() {
               }
             >
               <AiOutlineClockCircle size={24} />
-              <p>Sale ends November 26, 2022 at 7:39pm GMT+11</p>
+              <p>Sale ends December 31, 2022 at 9:39pm PST</p>
             </div>
           </div>
           <div className={"flex flex-col gap-y-2 bg-slate-50 p-3"}>

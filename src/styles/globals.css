@@ -4,7 +4,12 @@
 
 html {
     font-family: "DM Sans", sans-serif;
-    background: white;
+    color: white;
+    background-color: black;
+}
+
+body {
+    background-color: black;
 }
 
 .nft-grid {

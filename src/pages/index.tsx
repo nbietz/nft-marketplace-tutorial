@@ -11,7 +11,7 @@ const Home: NextPage = () => {
   const address = useAddress();
 
   const { contract } = useContract(
-    "0xd655B5d412eAbD1b7A901793673a511e664bCF5f",
+    "0xD230DD8d8f0e546700048a666011cEe7E8d8022A",
     "marketplace"
   );
 
