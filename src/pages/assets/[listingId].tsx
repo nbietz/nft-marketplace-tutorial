@@ -66,7 +66,7 @@ export default function NFT() {
               <p>Sale ends December 31, 2022 at 9:39pm PST</p>
             </div>
           </div>
-          <div className={"flex flex-col gap-y-2 bg-slate-50 p-3"}>
+          <div className={"flex flex-col gap-y-2 p-3"}>
             <div className={"text-sm text-gray-500"}>Current Price</div>
             <div className={`flex items-center space-x-3`}>
               <Image src={`/matic-logo.png`} height={24} width={24} />
